@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">X Feed Guard</string>
+    <string name="service_description">Observes X screen changes in the background and saves screen structure when you request a sample or guided transition capture. If you turn on experimental blocking, it requests Back after a matching video swipe. Blocking is off on new installs, pauses during recordings, and remembers your choice when Android reconnects the service. Android accessibility access must remain enabled. No messages, post text, screenshots, or keystrokes are saved. An ongoing notification keeps controls available and shows whether access needs attention. Everything stays on this device unless you choose to export it.</string>
+</resources>
